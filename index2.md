@@ -42,4 +42,4 @@ Dissertation title: *Incidences of deliberate fire in West Yorkshire: Spatio-tem
 
 # Twitter
 
-[You can follow me on Twitter here] (https://twitter.com/AnnabelWhipp)
+[You can follow me on Twitter here](https://twitter.com/AnnabelWhipp)
