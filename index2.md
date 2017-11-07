@@ -26,7 +26,7 @@ Dissertation title: *Incidences of deliberate fire in West Yorkshire: Spatio-tem
 
 - Spatial statistics
 
-- Women in urban public spacee
+- Women in urban public space
 
 - The geography of crime 
 
