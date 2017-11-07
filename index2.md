@@ -1,11 +1,14 @@
 ---
-title: Test
+title: Homepage
 ---
 
 # CV
 
 ## Current Position
-PhD student at the University of Leeds based in the School of Geography and the Leeds Institute for Data Analytics
+
+**2017**
+
+PhD student in Data Analytics and Society at the University of Leeds based in the School of Geography and the Leeds Institute for Data Analytics
 
 ## Education
 
@@ -15,4 +18,4 @@ PhD student at the University of Leeds based in the School of Geography and the 
 
 First Class Honours in BA Geography 
 
-Dissertation title: Incidences of deliberate fire in West Yorkshire: Spatio-temporal patterns and influences on trends 
+Dissertation title: *Incidences of deliberate fire in West Yorkshire: Spatio-temporal patterns and influences on trends* 
