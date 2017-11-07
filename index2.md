@@ -22,6 +22,8 @@ First Class Honours in BA Geography
 
 Dissertation title: *Incidences of deliberate fire in West Yorkshire: Spatio-temporal patterns and influences on trends* 
 
+My dissertation is available to read [here](https://github.com/annabelelizabethwhipp/annabelelizabethwhipp.github.io)
+
 # Projects
 
 - Programming for Social Science: Core Skills
