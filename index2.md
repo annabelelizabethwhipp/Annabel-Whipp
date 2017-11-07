@@ -25,6 +25,7 @@ Dissertation title: *Incidences of deliberate fire in West Yorkshire: Spatio-tem
 # Projects
 
 - Programming for Social Science
+  
   Building an ABM using Python
 
 # Interests
