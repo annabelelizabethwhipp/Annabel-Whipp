@@ -48,4 +48,4 @@ My dissertation is available to read [here](https://github.com/annabelelizabethw
 
 # Twitter
 
-[You can follow me on Twitter here](https://twitter.com/AnnabelWhipp)
+You can follow me on Twitter [here](https://twitter.com/AnnabelWhipp)
