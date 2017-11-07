@@ -12,6 +12,7 @@ PhD student in Data Analytics and Society at the University of Leeds
 
 Based in the [School of Geography](https://www.geog.leeds.ac.uk) and the [Leeds Institute for Data Analytics](http://lida.leeds.ac.uk)
 
+
 ## Education
 
 **2014-2017**
@@ -24,11 +25,6 @@ Dissertation title: *Incidences of deliberate fire in West Yorkshire: Spatio-tem
 
 My dissertation is available to read [here](https://github.com/annabelelizabethwhipp/annabelelizabethwhipp.github.io)
 
-# Projects
-
-- Programming for Social Science: Core Skills
-  
-  Building an ABM using Python
 
 # Interests
 
@@ -41,6 +37,14 @@ My dissertation is available to read [here](https://github.com/annabelelizabethw
 - Urban dynamics
 
 - Agent-based modelling
+
+
+# Projects
+
+- Programming for Social Science: Core Skills
+  
+  Building an ABM using Python
+
 
 # Twitter
 
