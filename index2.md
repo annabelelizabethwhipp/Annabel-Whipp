@@ -33,3 +33,7 @@ Dissertation title: *Incidences of deliberate fire in West Yorkshire: Spatio-tem
 - Urban dynamics
 
 - Agent-based modelling
+
+# Twitter
+
+https://twitter.com/AnnabelWhipp
