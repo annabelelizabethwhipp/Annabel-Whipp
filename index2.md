@@ -24,10 +24,12 @@ Dissertation title: *Incidences of deliberate fire in West Yorkshire: Spatio-tem
 
 # Interests
 
-Spatial statistics
+- Spatial statistics
 
 - Women in urban public spacee
 
 - The geography of crime 
 
 - Urban dynamics
+
+- Agent-based modelling
