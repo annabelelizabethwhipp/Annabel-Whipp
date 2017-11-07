@@ -10,7 +10,7 @@ title: Homepage
 
 PhD student in Data Analytics and Society at the University of Leeds 
 
-Based in the School of Geography and the Leeds Institute for Data Analytics
+Based in the School of Geography and the [Leeds Institute for Data Analytics](http://lida.leeds.ac.uk)
 
 ## Education
 
