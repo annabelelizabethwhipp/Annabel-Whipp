@@ -24,7 +24,7 @@ Dissertation title: *Incidences of deliberate fire in West Yorkshire: Spatio-tem
 
 # Projects
 
-- Programming for Social Science
+- Programming for Social Science: Core Skills
   
   Building an ABM using Python
 
@@ -42,4 +42,4 @@ Dissertation title: *Incidences of deliberate fire in West Yorkshire: Spatio-tem
 
 # Twitter
 
-[https://twitter.com/AnnabelWhipp]
+(You can follow me on Twitter here) [https://twitter.com/AnnabelWhipp]
