@@ -26,6 +26,9 @@ Dissertation title: *Incidences of deliberate fire in West Yorkshire: Spatio-tem
 My dissertation is available to read [here](https://github.com/annabelelizabethwhipp/annabelelizabethwhipp.github.io)
 
 
+## Teaching roles
+
+
 # Interests
 
 - Spatial statistics
@@ -37,6 +40,9 @@ My dissertation is available to read [here](https://github.com/annabelelizabethw
 - Urban dynamics
 
 - Agent-based modelling
+
+
+# Conferences attended
 
 
 # Projects
