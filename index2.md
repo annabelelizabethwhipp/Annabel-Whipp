@@ -51,3 +51,10 @@ My dissertation is available to read [here](https://github.com/annabelelizabethw
 # Twitter
 
 You can follow me on Twitter [here](https://twitter.com/AnnabelWhipp)
+
+
+# Seminars attended
+
+- 09/11/17 *Global Transport Datasets* LIDA
+
+
