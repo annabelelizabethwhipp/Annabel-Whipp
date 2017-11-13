@@ -2,6 +2,14 @@
 title: Homepage
 ---
 
+# CV
+
+Current position: PhD student in Data Analytics and Society at the University of Leeds
+Funded by the ESRC
+
+See my full CV [here] (https://annabelelizabethwhipp.github.io/cv)
+
+
 # Interests
 
 - Spatial statistics
