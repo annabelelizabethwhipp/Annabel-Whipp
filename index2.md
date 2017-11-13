@@ -12,7 +12,7 @@ Funded by the ESRC
 See my full CV [here](https://annabelelizabethwhipp.github.io/cv)
 
 
-# Interests
+# Research interests
 
 - Spatial statistics
 
