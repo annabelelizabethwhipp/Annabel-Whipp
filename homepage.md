@@ -8,6 +8,9 @@ title: Homepage
 Current position: PhD student in Data Analytics and Society at the University of Leeds
 
 
+Supervised by [Dr Nick Malleson](http://nickmalleson.co.uk), [Dr Jon Ward](http://www1.maths.leeds.ac.uk/~jaward/) and [Dr Andy Evans](http://www.geog.leeds.ac.uk/people/a.evans/). 
+
+
 Funded by the ESRC
 
 
