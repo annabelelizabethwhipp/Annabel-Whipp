@@ -30,9 +30,9 @@ See my full CV [here](https://annabelelizabethwhipp.github.io/cv)
 
 # Projects
 
-- Programming for Social Science: Core Skills
+- [Programming for Social Science: Core Skills](https://github.com/annabelelizabethwhipp/Programming-for-Social-Science)
   
-  Building an ABM using Python
+ 
 
 
 # Twitter
