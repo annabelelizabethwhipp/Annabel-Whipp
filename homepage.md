@@ -31,7 +31,7 @@ See my full CV [here](https://annabelelizabethwhipp.github.io/cv)
 ##  Events
 
 
-[Please click here to view conferences and seminars I have attended](https://annabelelizabethwhipp.github.io/events)
+[A record of conferences and seminars I have attended](https://annabelelizabethwhipp.github.io/events)
 
 
 
