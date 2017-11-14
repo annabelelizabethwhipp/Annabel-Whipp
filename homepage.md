@@ -28,9 +28,11 @@ See my full CV [here](https://annabelelizabethwhipp.github.io/cv)
 
 
 
-##  Seminars attended
+##  Events
 
-- 09/11/17 *Global Transport Datasets* LIDA
+
+Please click here to view conferences and seminars I have attended
+
 
 
 
