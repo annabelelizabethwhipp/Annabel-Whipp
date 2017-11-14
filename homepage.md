@@ -38,7 +38,7 @@ See my full CV [here](https://annabelelizabethwhipp.github.io/cv)
 
 # Projects
 
-- [Practicals for 'Programming for Social Science: Core Skills'](https://github.com/annabelelizabethwhipp/Programming-for-Social-Science)
+- [Practicals for 'Programming for Social Science: Core Skills'](https://annabelelizabethwhipp.github.io/project)
   
 - [Final project for 'Programming for Social Science: Core Skills'](https://github.com/annabelelizabethwhipp/Programming-for-Social-Sciences-Project)
 
