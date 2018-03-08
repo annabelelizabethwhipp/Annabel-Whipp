@@ -17,6 +17,14 @@ Supervised by [Dr Nick Malleson](http://nickmalleson.co.uk), [Dr Jon Ward](http:
 
 Funded by the [ESRC](http://www.esrc.ac.uk)
 
+## Roles at the University of Leeds
+
+**2018**
+
+Module assistant on the following modules:
+Research Methods - GIS & Spatial Analysis
+People, Place and Politics and Urban Living 
+
 
 ## Education
 
