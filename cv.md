@@ -22,7 +22,9 @@ Funded by the [ESRC](http://www.esrc.ac.uk)
 **2018**
 
 Module assistant on the following modules:
+
 Research Methods - GIS & Spatial Analysis
+
 People, Place and Politics and Urban Living 
 
 
