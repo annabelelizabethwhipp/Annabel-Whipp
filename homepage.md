@@ -18,15 +18,17 @@ See my full CV [here](https://annabelelizabethwhipp.github.io/cv)
 
 # Research interests
 
-- Spatial statistics
-
-- Women in urban public space
-
-- The geography of crime 
-
 - Urban dynamics
 
 - Agent-based modelling
+
+- Complex systems
+
+- Spatial statistics
+
+- The geography of crime 
+
+
 
 
 
