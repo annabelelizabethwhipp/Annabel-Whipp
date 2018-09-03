@@ -6,7 +6,7 @@ title: CV
 
 ## Current Position
 
-**2017**
+**2018**
 
 PhD student in Data Analytics and Society at the University of Leeds 
 
@@ -19,7 +19,7 @@ Funded by the [ESRC](http://www.esrc.ac.uk)
 
 ## Roles at the University of Leeds
 
-**2018**
+** September 2017- May 2018 **
 
 Module assistant on the following modules:
 
@@ -27,6 +27,9 @@ Research Methods - GIS & Spatial Analysis
 
 People, Place and Politics and Urban Living 
 
+** September 2018- May 2019 **
+
+Module assistant on the following modules:
 
 ## Education
 
