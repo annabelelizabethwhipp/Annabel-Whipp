@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> Annabel Elizabeth Whipp</title>
+    <link rel="stylesheet" type="text/css" href="/css/main.css">
+  </head>
+  
+  <body>
+    <nav>
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/cv">CV</a></li>
+        <li><a href="/projects">Projects</a></li>
+      </ul>
+    </nav>
+
+    <div class="container">
+    <div class="blurb">
+  <h1>Keiran Suchak</h1>
+  <p>Assorted writings on data and music.</p>
+</div>
+
+    </div>
+    
+    <footer>
+      <ul>
+        <li><a href="mailto:gy14aw@leeds.ac.uk">email</a></li>
+        <li><a href="https://github.com/annabelelizabethwhipp.github.io">github</a></li>
+      </ul>
+    </footer>
+  </body>
+
