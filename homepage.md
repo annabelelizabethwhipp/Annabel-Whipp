@@ -30,11 +30,9 @@ See my full CV [here](https://annabelelizabethwhipp.github.io/cv)
 
 
 
-##  Events
+##  Internship
 
-
-[A record of conferences and seminars I have attended](https://annabelelizabethwhipp.github.io/events)
-
+In June 2018 I completed a 10 day internship with Leeds City Council's City Centre Management team. The internship involved the design and fulfillment of a project aiming to better understand data from 8 footfall cameras located in Leeds City Centre. This project is part of a broader aim to quantify the urban ambient population, which is encompassed by my PhD. I constructed a data warehouse which included a range of datasets that would be potentially of benefit when attempting to quantify the ambient population. I then conducted data analysis of the footfall camera data in order to investigate trends by time of day, day of the week, week of the year and location.
 
 
 
