@@ -19,7 +19,7 @@ Funded by the [ESRC](http://www.esrc.ac.uk)
 
 ## Roles at the University of Leeds
 
-** September 2017- May 2018 **
+**September 2017- May 2018**
 
 Module assistant on the following modules:
 
@@ -27,9 +27,14 @@ Research Methods - GIS & Spatial Analysis
 
 People, Place and Politics and Urban Living 
 
-** September 2018- May 2019 **
+**September 2018- May 2019**
 
 Module assistant on the following modules:
+
+Geocomputation and Location Analysis
+
+Service Analysis and Planning
+
 
 ## Education
 
