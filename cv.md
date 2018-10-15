@@ -35,6 +35,9 @@ Geocomputation and Location Analysis
 
 Service Analysis and Planning
 
+People, Place and Politics
+
+Research Methods - GIS & Spatial Analysis
 
 ## Education
 
