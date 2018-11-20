@@ -60,8 +60,8 @@ You can follow me on Twitter [here](https://twitter.com/AnnabelWhipp)
 
 # Presentations
 
-- [Postgraduate Study - University of Leeds Geography undergraduates](annabelelizabethwhipp.github.io/Annabel_Whipp_ZJU_Presentation.pptx)
+- [Postgraduate Study - University of Leeds Geography undergraduates](annabelelizabethwhipp.github.io/Presentation.pptx)
 
-- Quantifying the ambient population - University of Leeds and University of Zhejiang collaboration
+- [Quantifying the ambient population - University of Leeds and University of Zhejiang collaboration](annabelelizabethwhipp.github.io/Annabel_Whipp_ZJU_Presentation.pptx)
 
 
