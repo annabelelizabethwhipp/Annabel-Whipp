@@ -8,7 +8,7 @@ title: CV
 
 **2018**
 
-PhD student in Data Analytics and Society at the University of Leeds 
+Masters student and PhD candidate in Data Analytics and Society at the University of Leeds 
 
 Based in the [School of Geography](https://www.geog.leeds.ac.uk) and the [Leeds Institute for Data Analytics](http://lida.leeds.ac.uk)
 
