@@ -58,3 +58,10 @@ I then conducted a spatio-temporal analysis of the footfall camera data, in orde
 You can follow me on Twitter [here](https://twitter.com/AnnabelWhipp)
 
 
+# Presentations
+
+- Postgraduate Study - University of Leeds Geography undergraduates
+
+- Quantifying the ambient population - University of Leeds and University of Zhejiang collaboration
+
+
