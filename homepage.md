@@ -64,6 +64,6 @@ You can follow me on Twitter [here](https://twitter.com/AnnabelWhipp)
 
 - [Quantifying the ambient population - University of Leeds and University of Zhejiang collaboration](annabelelizabethwhipp.github.io/Annabel_Whipp_ZJU_Presentation.pptx)
 
--  [Centre for Data Analytics and Society showcase](annabelelizabethwhipp.github.io/CDAS Showcase Poster.pdf)
+- [Centre for Data Analytics and Society showcase](annabelelizabethwhipp.github.io/CDAS Showcase Poster.pdf) 
 
 
