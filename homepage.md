@@ -30,11 +30,15 @@ See my full CV [here](https://annabelelizabethwhipp.github.io/cv)
 
 
 
-
-
 ##  Internship
 
-In June 2018 I completed a 10 day internship with Leeds City Council's City Centre Management team. The internship involved the design and fulfillment of a project aiming to better understand data from 8 footfall cameras located in Leeds City Centre. This project is part of a broader aim to quantify the urban ambient population, which is encompassed by my PhD. I constructed a data warehouse which included a range of datasets that would be potentially of benefit when attempting to quantify the ambient population. I then conducted data analysis of the footfall camera data in order to investigate trends by time of day, day of the week, week of the year and location.
+In June 2018, I completed an internship with Leeds City Council's City Centre Management team. The internship involved the design and fulfillment of a project aiming to better understand data from 8 footfall cameras located in Leeds City Centre. 
+
+The project is part of a broader aim to quantify the urban ambient population, which is encompassed by my PhD topic. 
+
+The primary task was to clean the footfall camera data, which had multiple formatting issues preventing analysis. I subsequently constructed a data warehouse which included a range of datasets identified to be of use for attempting to quantify the ambient population. 
+
+I then conducted a spatio-temporal analysis of the footfall camera data, in order to investigate flucuations in footfall patterns at different resolutions. Footfall counts were examined by week, month, British Retail Calendar week and camera location. Temporal fluctuations between 2016 and 2017 and possible reasoning for these changes were provided.
 
 
 
@@ -43,6 +47,7 @@ In June 2018 I completed a 10 day internship with Leeds City Council's City Cent
 - [Practicals for 'Programming for Social Science: Core Skills'](https://annabelelizabethwhipp.github.io/project)
   
 - [Final project for 'Programming for Social Science: Core Skills'](https://github.com/annabelelizabethwhipp/Programming-for-Social-Sciences-Project)
+
 
 
 # Twitter
