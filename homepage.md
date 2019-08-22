@@ -48,5 +48,7 @@ I was nominated in the category of postgraduate researchers who teach for active
 
 You can follow me on Twitter [here](https://twitter.com/AnnabelWhipp)
 
+# LinkedIn
 
+Find me on LinkedIn [here](https://uk.linkedin.com/in/annabel-whipp-82ab00183)
 
