@@ -5,7 +5,7 @@ title: Homepage
 My name is Annabel Elizabeth Whipp, I am currently a PhD student in Data Analytics and Society at the University of Leeds.
 
 
-![alt text](https://annabelelizabethwhipp.github.io/IMG_5412.JPG "Picture"=100x100)
+![alt text](https://annabelelizabethwhipp.github.io/IMG_5412.JPG=100x100)
 
 
 
