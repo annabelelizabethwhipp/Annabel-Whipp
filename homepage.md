@@ -8,9 +8,9 @@ title: Homepage
 Current position: PhD student in Data Analytics and Society at the University of Leeds
 
 
-Supervised by [Dr Nick Malleson](http://nickmalleson.co.uk), [Dr Jon Ward](http://www1.maths.leeds.ac.uk/~jaward/) and [Dr Andy Evans](http://www.geog.leeds.ac.uk/people/a.evans/) and funded by the [ESRC](http://www.esrc.ac.uk)
+Supervised by [Professor Nick Malleson](http://nickmalleson.co.uk), [Professor Alison Heppenstall](https://www.turing.ac.uk/people/researchers/alison-heppenstall) and [Dr Jon Ward](http://www1.maths.leeds.ac.uk/~jaward/) and funded by the [ESRC](http://www.esrc.ac.uk)
 
-Partnered with Leeds City Council
+Data partnership with Leeds City Council
 
 
 See my full CV [here](https://annabelelizabethwhipp.github.io/cv)
@@ -20,50 +20,33 @@ See my full CV [here](https://annabelelizabethwhipp.github.io/cv)
 
 - Urban dynamics
 
-- Agent-based modelling
+- The ambient population
 
-- Complex systems
-
-- Spatial statistics
+- Diurnal population movements
 
 - The geography of crime 
 
 
+# Awards
 
-##  Internship
+Best poster GISRUK 2019
 
-In June 2018, I completed an internship with Leeds City Council's City Centre Management team. The internship involved the design and fulfillment of a project aiming to better understand data from 8 footfall cameras located in Leeds City Centre. 
-
-
-The project is part of a broader aim to quantify the urban ambient population, which is encompassed by my PhD topic. 
+I was awarded the prize for the best poster at the GIS Research UK 2019 conference which was based upon my work on spatio-temporal incidences of deliberate fire within West Yorkshire. Top 1 of 25 accepted submissions.
 
 
-The primary task was to clean the footfall camera data, which had multiple formatting issues preventing analysis. I subsequently constructed a data warehouse which included a range of datasets identified to be of use for attempting to quantify the ambient population. 
+GIS Research UK 2019 Early Career Researcher Scholarship
+
+I was awarded one of ten early career researcher scholarships available based upon the quality of a submitted abstract.
 
 
-I then conducted a spatio-temporal analysis of the footfall camera data, in order to investigate flucuations in footfall patterns at different resolutions. Footfall counts were examined by week, month, British Retail Calendar week and camera location. Temporal fluctuations between 2016 and 2017 and possible reasoning for these changes were provided.
+Nomination for the Leeds University Union Partnership award for postgraduate researchers who teach
 
-
-
-# Projects
-
-- [Practicals for 'Programming for Social Science: Core Skills'](https://annabelelizabethwhipp.github.io/project)
-  
-- [Final project for 'Programming for Social Science: Core Skills'](https://github.com/annabelelizabethwhipp/Programming-for-Social-Sciences-Project)
-
+I was nominated in the category of postgraduate researchers who teach for actively and exceptionally contributing to other students' education
 
 
 # Twitter
 
 You can follow me on Twitter [here](https://twitter.com/AnnabelWhipp)
 
-
-# Presentations
-
-- [Postgraduate Study - University of Leeds Geography undergraduates](annabelelizabethwhipp.github.io/BAPostgraduateStudy.pdf)
-
-- [Quantifying the ambient population - University of Leeds and University of Zhejiang collaboration](annabelelizabethwhipp.github.io/ZJU_Presentation.pdf)
-
-- [Centre for Data Analytics and Society showcase poster](annabelelizabethwhipp.github.io/CDAS_Showcase_Poster.pdf) 
 
 
