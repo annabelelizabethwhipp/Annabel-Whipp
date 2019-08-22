@@ -5,12 +5,14 @@ title: Homepage
 # CV
 
 
-Current position: PhD student in Data Analytics and Society at the University of Leeds
+Current position: PhD student in Data Analytics and Society at the University of Leeds.
 
 
-Supervised by [Professor Nick Malleson](http://nickmalleson.co.uk), [Professor Alison Heppenstall](https://www.turing.ac.uk/people/researchers/alison-heppenstall) and [Dr Jon Ward](http://www1.maths.leeds.ac.uk/~jaward/) and funded by the [ESRC](http://www.esrc.ac.uk)
+Supervised by [Professor Nick Malleson](http://nickmalleson.co.uk), [Professor Alison Heppenstall](https://www.turing.ac.uk/people/researchers/alison-heppenstall) and [Dr Jon Ward](http://www1.maths.leeds.ac.uk/~jaward/) and funded by the [ESRC](http://www.esrc.ac.uk).
 
-Data partnership with Leeds City Council
+Data partnership with Leeds City Council.
+
+Secretary of Leeds Data Science Society.
 
 
 See my full CV [here](https://annabelelizabethwhipp.github.io/cv)
