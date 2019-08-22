@@ -31,17 +31,17 @@ See my full CV [here](https://annabelelizabethwhipp.github.io/cv)
 
 # Awards
 
-## Best poster GISRUK 2019
+### Best poster GISRUK 2019
 
 I was awarded the prize for the best poster at the GIS Research UK 2019 conference which was based upon my work on spatio-temporal incidences of deliberate fire within West Yorkshire. Top 1 of 25 accepted submissions.
 
 
-## GIS Research UK 2019 Early Career Researcher Scholarship
+### GIS Research UK 2019 Early Career Researcher Scholarship
 
 I was awarded one of ten early career researcher scholarships available based upon the quality of a submitted abstract.
 
 
-## Nomination for the Leeds University Union Partnership award for postgraduate researchers who teach
+### Nomination for the Leeds University Union Partnership award for postgraduate researchers who teach
 
 I was nominated in the category of postgraduate researchers who teach for actively and exceptionally contributing to other students' education
 
