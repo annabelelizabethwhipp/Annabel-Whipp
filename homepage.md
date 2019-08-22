@@ -5,7 +5,7 @@ title: Homepage
 My name is Annabel Elizabeth Whipp, I am currently a PhD student in Data Analytics and Society at the University of Leeds.
 
 Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://annabelelizabethwhipp.github.io/IMG_5412.JPG "Logo Title Text 1")
 
 ![alt text](annabelelizabethwhipp.github.io/IMG_5412.JPG "Image")
 
