@@ -1,7 +1,7 @@
 My name is Annabel Elizabeth Whipp, I am currently a PhD student in Data Analytics and Society at the University of Leeds.
 
 <p align="center">
-  <img width="300" height="200" src="IMG_5412.JPG">
+  <img width="250" height="200" src="IMG_5412.JPG">
 </p>
 
 My supervisors are [Professor Nick Malleson](http://nickmalleson.co.uk), [Professor Alison Heppenstall](https://www.turing.ac.uk/people/researchers/alison-heppenstall) and [Dr Jon Ward](http://www1.maths.leeds.ac.uk/~jaward/) and funded by the [ESRC](http://www.esrc.ac.uk). My PhD project is entitled **'Building estimates of the ambient population: a case study of Leeds city centre'** and aims to employ data science methods to attempt to quantify the ambient population. 
