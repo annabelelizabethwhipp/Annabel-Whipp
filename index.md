@@ -75,6 +75,23 @@ I have taught on the following modules at the University of Leeds and on a three
 
 - Social Data Analysis
 
+# Skills
+
+- R
+
+- Python
+
+- Tableau
+
+- Spatial statistics
+
+- QGIS
+
+- ArcMap
+
+- MapInfo
+
+- NetLogo
 
 # Twitter
 
