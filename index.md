@@ -101,3 +101,18 @@ Follow me on [Twitter](https://twitter.com/AnnabelWhipp)
 
 Find me on [LinkedIn](https://uk.linkedin.com/in/annabel-whipp-82ab00183)
 
+# Leeds Data Science Society
+
+Between 2019 and 2020 I was Secretary of Leeds Data Science Society, the largest academic society at the University of Leeds. This role included management and administrative tasks; in addition to providing [online content](https://leedsdatascience.github.io/authors/annabel/) for the society website and running seminars on [artifical intelligence](https://leedsdatascience.github.io/talk/introtoai20/) and [digital twins](https://leedsdatascience.github.io/talk/digitaltwins19/). 
+
+Find links to my blog posts for Leeds Data Science Society here:
+
+- [LDSS Recommends - "Elements of AI"](https://leedsdatascience.github.io/post/elements-of-ai/)
+- [LDSS Recommends - "DeepMind - The podcast with Hannah Fry"](https://leedsdatascience.github.io/post/deepmind-podcast/)
+- [LDSS Recommends - "Everybody Lies - What the Internet Can Tell Us About Who We Really Are"](https://leedsdatascience.github.io/post/everybody-lies/)
+- [LDSS Team Q&A](https://leedsdatascience.github.io/post/team-q-a/)
+- [LDSS Recommends - Our favourite visualisation blogs](https://leedsdatascience.github.io/post/visualisation-blogs/)
+- [Where to find open data](https://leedsdatascience.github.io/post/open-data/)
+- [LDSS Recommends - "Invisible Women" by Caroline Criado Perez](https://leedsdatascience.github.io/post/invisible-women/)
+- [Inspirational Women series - Ada Lovelace](https://leedsdatascience.github.io/post/ada-lovelace/)
+- [Inspirational Women series - Florence Nightingale](https://leedsdatascience.github.io/post/florence-nightingale/)
