@@ -9,7 +9,6 @@ My name is Annabel Elizabeth Whipp, I am currently a PhD student in Data Analyti
 My supervisors are [Professor Nick Malleson](http://nickmalleson.co.uk), [Professor Alison Heppenstall](https://www.turing.ac.uk/people/researchers/alison-heppenstall) and [Dr Jon Ward](http://www1.maths.leeds.ac.uk/~jaward/) and funded by the [ESRC](http://www.esrc.ac.uk). My PhD project is entitled **'Building estimates of the ambient population: a case study of Leeds city centre'** and aims to employ data science methods to attempt to quantify the ambient population. 
 
 
-
 # Research interests
 
 - The ambient population
@@ -19,6 +18,17 @@ My supervisors are [Professor Nick Malleson](http://nickmalleson.co.uk), [Profes
 - Diurnal population movements
 
 - The geography of crime 
+
+
+# Roles
+
+2019 - 2020
+
+- Secretary of Leeds Data Science Society
+
+2020 - present
+
+- Course representative for postgraduate students in the Centre for Spatial Analysis and Policy
 
 
 # Awards
