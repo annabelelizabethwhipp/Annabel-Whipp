@@ -51,6 +51,11 @@ I was awarded one of ten early career researcher scholarships available based up
 
 I was nominated in the category of postgraduate researchers who teach for actively and exceptionally contributing to other students' education
 
+# Learning Resources
+
+I produced a guide to getting started with ArcMap (here)[https://github.com/annabelelizabethwhipp/LearningResources/blob/master/Getting%20started%20with%20ArcMap.pdf]. It includes guidance on adding data, joining data, producing choropleth and graduated maps, and producing a layout.
+
+
 # Teaching Experience
 
 I have taught on the following modules at the University of Leeds and on a three-day course by the Consumer Data Research Centre:
