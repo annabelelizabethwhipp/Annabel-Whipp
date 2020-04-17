@@ -53,7 +53,7 @@ I was nominated in the category of postgraduate researchers who teach for active
 
 # Learning Resources
 
-I produced a guide to getting started with ArcMap (here)[https://github.com/annabelelizabethwhipp/LearningResources/blob/master/Getting%20started%20with%20ArcMap.pdf]. It includes guidance on adding data, joining data, producing choropleth and graduated maps, and producing a layout.
+I produced a guide to getting started with ArcMap [here](https://github.com/annabelelizabethwhipp/LearningResources/blob/master/Getting%20started%20with%20ArcMap.pdf). It includes guidance on adding data, joining data, producing choropleth and graduated maps, and producing a layout.
 
 
 # Teaching Experience
