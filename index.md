@@ -33,23 +33,23 @@ My supervisors are [Professor Nick Malleson](http://nickmalleson.co.uk), [Profes
 
 # Awards
 
-### Nomination for the Leeds University Union Partnership award for postgraduate researchers who teach 2020
+### Winner the Leeds University Union Partnership award for postgraduate researchers who teach 2020.
 
-For a consecutive year I was nominated in the category of postgraduate researchers who teach for actively and exceptionally contributing to other students' education
+I was awarded the winner in the category of postgraduate researchers who teach for actively and exceptionally contributing to other students' education.
 
-### Best poster GISRUK 2019
+### Best poster GISRUK 2019.
 
 I was awarded the prize for the best poster at the GIS Research UK 2019 conference which was based upon my work on spatio-temporal incidences of deliberate fire within West Yorkshire. Top 1 of 25 accepted submissions.
 
 
-### GIS Research UK 2019 Early Career Researcher Scholarship
+### GIS Research UK 2019 Early Career Researcher Scholarship.
 
 I was awarded one of ten early career researcher scholarships available based upon the quality of a submitted abstract.
 
 
-### Nomination for the Leeds University Union Partnership award for postgraduate researchers who teach 2019
+### Nomination for the Leeds University Union Partnership award for postgraduate researchers who teach 2019.
 
-I was nominated in the category of postgraduate researchers who teach for actively and exceptionally contributing to other students' education
+I was nominated in the category of postgraduate researchers who teach for actively and exceptionally contributing to other students' education.
 
 # Learning Resources
 
@@ -57,6 +57,7 @@ I produced a guide to getting started with ArcMap [here](https://github.com/anna
 
 [Here](https://github.com/annabelelizabethwhipp/LearningResources/blob/master/Geocoding%20Postcodes.pdf) is a guide to geocoding, focussing on deriving eastings and northings from postcodes. 
 
+Find information on adding and removing labels in QGIS [here.](https://github.com/annabelelizabethwhipp/LearningResources/blob/master/Adding%20and%20removing%20labels%20in%20QGIS.pdf)
 
 # Teaching Experience
 
