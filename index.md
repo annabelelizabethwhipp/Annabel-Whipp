@@ -57,6 +57,8 @@ I produced a guide to getting started with ArcMap [here](https://github.com/anna
 
 [Here](https://github.com/annabelelizabethwhipp/LearningResources/blob/master/Geocoding%20Postcodes.pdf) is a guide to geocoding, focussing on deriving eastings and northings from postcodes. 
 
+A guide to getting started with QGIS is available [here.](https://github.com/annabelelizabethwhipp/LearningResources/blob/master/Getting%20started%20with%20QGIS.pdf) 
+
 Find information on adding and removing labels in QGIS [here.](https://github.com/annabelelizabethwhipp/LearningResources/blob/master/Adding%20and%20removing%20labels%20in%20QGIS.pdf)
 
 # Teaching Experience
