@@ -33,7 +33,7 @@ My supervisors are [Professor Nick Malleson](http://nickmalleson.co.uk), [Profes
 
 # Awards
 
-### Winner the Leeds University Union Partnership award for postgraduate researchers who teach 2020.
+### Winner of the Leeds University Union Partnership award for postgraduate researchers who teach 2020.
 
 I was awarded the winner in the category of postgraduate researchers who teach for actively and exceptionally contributing to other students' education.
 
